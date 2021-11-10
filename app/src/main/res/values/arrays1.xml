@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array1">
+
+        <item>Select type</item>
+        <item>QR Code</item>
+        <item>Aztec</item>
+        <item>CODABAR</item>
+        <item>CODE_128</item>
+        <item>CODE_39</item>
+        <item>CODE_93</item>
+        <item>DATA_MATRIX</item>
+        <item>EAN_13</item>
+        <item>EAN_8</item>
+        <item>ITF</item>
+        <item>MAXICODE</item>
+        <item>PDF_417</item>
+        <item>RSS_14</item>
+        <item>RSS_EXPANDED</item>
+        <item>UPC_A</item>
+        <item>UPC_E</item>
+        <item>UPC_EAN_EXTENSION</item>
+
+    </string-array>
+</resources>
